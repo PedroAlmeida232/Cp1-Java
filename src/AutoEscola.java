@@ -11,6 +11,7 @@ public class AutoEscola {
         System.out.println("Tipo de veiculo "+aluno1.tipoVeculo);
         System.out.println("Total de aulas teoricas: "+aluno1.aulasTeoricas);
         System.out.println("Total de aulas praticas: "+aluno1.aulasPraticas);
+        System.out.println("Status: "+aluno1.aprovado);
         System.out.println("");
         System.out.println("-----------------------------------------------------------------------------------------------------------");
         System.out.println("---------- INFORMACOES ALUNO 2 --------------");
@@ -19,6 +20,7 @@ public class AutoEscola {
         System.out.println("Tipo de veiculo "+aluno2.tipoVeculo);
         System.out.println("Total de aulas teoricas: "+aluno2.aulasTeoricas);
         System.out.println("Total de aulas praticas: "+aluno2.aulasPraticas);
+        System.out.println("Status: "+aluno2.aprovado);
         System.out.println("");
         System.out.println("-----------------------------------------------------------------------------------------------------------");
         System.out.println("---------- INFORMACOES ALUNO 3 --------------");
@@ -27,6 +29,7 @@ public class AutoEscola {
         System.out.println("Tipo de veiculo "+aluno3.tipoVeculo);
         System.out.println("Total de aulas teoricas: "+aluno3.aulasTeoricas);
         System.out.println("Total de aulas praticas: "+aluno3.aulasPraticas);
+        System.out.println("Status: "+aluno3.aprovado);
         System.out.println("");
         System.out.println("-----------------------------------------------------------------------------------------------------------");
         System.out.println("---------- INFORMACOES ALUNO 4 --------------");
@@ -35,6 +38,7 @@ public class AutoEscola {
         System.out.println("Tipo de veiculo "+aluno4.tipoVeculo);
         System.out.println("Total de aulas teoricas: "+aluno4.aulasTeoricas);
         System.out.println("Total de aulas praticas: "+aluno4.aulasPraticas);
+        System.out.println("Status: "+aluno4.aprovado);
     }
 
 }
