@@ -25,6 +25,7 @@ public class Aluno {
         }else{
             System.out.println("Nao foi possivel realizar o exame , voce deve ter no minimo 5 aulas teoricas e 5 aulas praticas");
         }
+
     }
 
 
