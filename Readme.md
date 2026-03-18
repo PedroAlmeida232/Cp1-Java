@@ -38,7 +38,7 @@ AutoEscola
 
 O diagrama abaixo representa a estrutura das classes do sistema, seus atributos, métodos e os relacionamentos entre elas:
 
-![Diagrama de Classe UML](DigramaDeClasseUML_drawio.png)
+![Diagrama de Classe UML](./assets/DigramaDeClasseUML_drawio.png)
 
 ---
 
