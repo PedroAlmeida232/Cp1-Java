@@ -1,4 +1,5 @@
 public class AutoEscola {
+
     public Aluno aluno1;
     public Aluno aluno2;
     public Aluno aluno3;

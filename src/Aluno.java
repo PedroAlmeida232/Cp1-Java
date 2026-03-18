@@ -1,4 +1,6 @@
+import java.util.Random;
 public class Aluno {
+    Random gerador = new Random();
 
     public String nome;
     public  int idade;
@@ -21,7 +23,7 @@ public class Aluno {
     }
     public void realizarExame(){
         if (aulasPraticas >= 5 && aulasTeoricas >= 5){
-            aprovado = true;
+            aprovado = gerador.nextBoolean();
         }else{
             System.out.println("Nao foi possivel realizar o exame , voce deve ter no minimo 5 aulas teoricas e 5 aulas praticas");
         }
